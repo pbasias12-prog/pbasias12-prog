@@ -6,7 +6,6 @@ Computer Science & Electronic Engineering student at the International Hellenic 
 - Software Engineering
 - Artificial Intelligence
 - Machine Learning
-- Cybersecurity
 - Backend Development
 
 ## Technical Skills
