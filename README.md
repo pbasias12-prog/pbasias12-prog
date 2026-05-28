@@ -12,7 +12,8 @@
 - C
 - Java
 - JavaFX
-- Git & GitHub
+- HTML
+- CSS
 - Machine Learning
 
 
