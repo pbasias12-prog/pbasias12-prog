@@ -27,6 +27,9 @@ Computer Science & Electronic Engineering student at the International Hellenic 
 - Software Architecture
 - Cybersecurity Technologies
 
+## Currently Working 
+on my diploma thesis focused on Machine Learning 
+
 ## Contact
 📧 pbasias12@gmail.com
 
