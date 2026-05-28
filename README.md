@@ -4,9 +4,12 @@
 
 ## Interests
 - Software Engineering
+- Databases
+- Computer Networks
 - Artificial Intelligence
 - Machine Learning
 - Backend Development
+- Electronics & Embedded Systems
 
 ## Technical Skills
 - C
