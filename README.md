@@ -14,6 +14,7 @@
 ## Technical Skills
 - C
 - Java
+- Python
 - JavaFX
 - HTML
 - CSS
