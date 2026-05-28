@@ -1,6 +1,6 @@
  Hi, I'm Panagiotis Basias 👋
 
-Computer Science & Electronic Engineering student at the International Hellenic University, Thessaloniki, Greece.
+ Department of Information and Electronic Engineering, of the International Hellenic University (I.H.U), Thessaloniki, Greece.
 
 ## Interests
 - Software Engineering
